@@ -10,7 +10,7 @@
   <a href="https://join.skype.com/invite/MrtnDQRLgGuH" target="_blank">
     <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
   </a>
-  <a href="https://t.me/SkyCaptainess">
+  <a href="https://t.me/dustin">
     <img src="https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="Dustin!#6936">
