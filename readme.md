@@ -1,4 +1,4 @@
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=smile1130&show_icons=true&locale=en" alt="smile1130" /></p>****
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=smile1130&show_icons=true&locale=en" alt="smile1130" /></p>
 
 <h1 font-weight="bold">
   📮 How To reach Me
