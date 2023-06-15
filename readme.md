@@ -1,5 +1,5 @@
 <h1 font-weight="bold">
-  📮 How to reach me
+  📮 How to reach Me
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
 </h1>
 
