@@ -1,3 +1,5 @@
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=besimgurpinar&show_icons=true&locale=en" alt="besimgurpinar" /></p>****
+
 <h1 font-weight="bold">
   📮 How to reach me
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
