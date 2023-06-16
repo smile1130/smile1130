@@ -6,7 +6,7 @@
 </h1>
 
 <p align='center'>
-  <a href="mailto:superskiller1130@gmail.com" target="">
+  <a href="mailto:superskiller1130@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://join.skype.com/invite/MrtnDQRLgGuH" target="_blank">
