@@ -1,10 +1,8 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=smile1130&show_icons=true&locale=en" alt="smile1130" /></p>
-
 <h1 font-weight="bold">
   📮 How To reach Me
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
 </h1>
-
 <p align='center'>
   <a href="mailto:superskiller1130@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
